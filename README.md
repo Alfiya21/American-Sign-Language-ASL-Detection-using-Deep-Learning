@@ -1,7 +1,7 @@
 AMERICAN SIGN LANGUAGE (ASL) DETECTION
 
 
-PROJECT OVERVIEW
+PROJECT OVERVIEW:
 This project implements a deep learning–based system to recognize
 American Sign Language (ASL) hand gestures from images. A Convolutional
 Neural Network (CNN) is used to automatically learn visual features
